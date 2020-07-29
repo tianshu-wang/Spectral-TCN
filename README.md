@@ -8,4 +8,4 @@ srgan.py contains the generator model (as well as the SRGAN model, which is not 
 
 demo.py conatins the loss function and training processes.
 
-Initial data sets are too large to be uploaded.
+Initial data sets are too large to be uploaded. Instead, I upload files with only 100 spectra.
